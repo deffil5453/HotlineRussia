@@ -4,6 +4,11 @@ public class PlayerAim : MonoBehaviour
 {
     void Update()
     {
+        Aim();
+    }
+
+    private void Aim()
+    {
         Vector3 mousePosition = Camera.main.ScreenToWorldPoint(Input.mousePosition);
         mousePosition.z = 0;
         Vector2 direction = (mousePosition - transform.position).normalized;
