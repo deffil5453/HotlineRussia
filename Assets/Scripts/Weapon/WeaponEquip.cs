@@ -8,7 +8,7 @@ public class WeaponEquip : MonoBehaviour
         if (collision.CompareTag("Player"))
         {
             WeaponSystem weaponSystem = collision.GetComponent<WeaponSystem>();
-            if (weaponSystem != null) 
+            if (weaponSystem != null && !weaponSystem.IsEquipedWeapon()) 
             {
                 weaponSystem.EquipWeapon(Index);
                 Destroy(gameObject);

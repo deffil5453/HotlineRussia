@@ -11,7 +11,10 @@ public class PlayerCombat : MonoBehaviour
     private void Update()
     {
         Attack();
-        DropAttack();
+        if (_weaponSystem.IsEquipedWeapon())
+        {
+            DropAttack();
+        }
     }
     private void Attack()
     {
@@ -25,7 +28,10 @@ public class PlayerCombat : MonoBehaviour
     {
         if (Input.GetMouseButtonDown(1))
         {
-            _weaponSystem.DropWeapon();
+            if (_weaponSystem.IsEquipedWeapon())
+            {
+                _weaponSystem.DropWeapon();
+            }
         }
     }
 }

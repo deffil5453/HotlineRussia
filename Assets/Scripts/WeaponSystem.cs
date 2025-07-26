@@ -9,6 +9,8 @@ public class WeaponData : IWeapon
     public string Name;
     public float AttackCooldown;
     public GameObject WeaponPrefab;
+    public GameObject BulletPrefab;
+    public int BulletCount;
     public AnimatorOverrideController AnimatorOverrideController;
     public WeaponType WeaponType;
 
@@ -27,7 +29,15 @@ public class WeaponData : IWeapon
     {
         if (WeaponType == WeaponType.Ranged)
         {
-            MonoBehaviour.Instantiate(WeaponPrefab);
+            if (BulletCount <= 0)
+            {
+                return;
+            }
+            else
+            {
+                BulletCount--;
+                MonoBehaviour.Instantiate(BulletPrefab, transform.position, transform.rotation * Quaternion.Euler(0, 0, Random.Range(-10, 10)));
+            }
         }
     }
 }
@@ -38,7 +48,9 @@ public class WeaponSystem : MonoBehaviour
     [SerializeField] private RuntimeAnimatorController _defaultAnimatorController;
     [SerializeField] private int _weaponIndex;
     [SerializeField] private Transform _bodyTransform;
+    [SerializeField] private bool _isEquipedWeapon = false;
     private IWeapon _currentWeapon;
+    public bool IsEquipedWeapon() => _isEquipedWeapon;
     public int WeaponIndex
     {
         get { return _weaponIndex; }
@@ -50,18 +62,20 @@ public class WeaponSystem : MonoBehaviour
         {
             _animator.runtimeAnimatorController = _defaultAnimatorController;
         }
-
     }
     public void EquipWeapon(int index)
     {
+
         if (index < 0) return;
         Debug.Log("оружие взял");
+        _isEquipedWeapon = true;
         _weaponIndex = index;
         _currentWeapon = _weapons[index];
         _currentWeapon.Equip(_animator);
     }
     public void DropWeapon()
     {
+        _isEquipedWeapon = false;
         _currentWeapon.Drop(_bodyTransform);
         _currentWeapon = null;
         _animator.runtimeAnimatorController = _defaultAnimatorController;
