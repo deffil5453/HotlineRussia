@@ -2,7 +2,11 @@ using UnityEngine;
 
 public class WeaponEquip : MonoBehaviour
 {
-    public int Index;
+    private WeaponController _weaponController;
+    private void Start()
+    {
+        _weaponController = GetComponent<WeaponController>();
+    }
     private void OnTriggerEnter2D(Collider2D collision)
     {
         if (collision.CompareTag("Player"))
@@ -10,7 +14,7 @@ public class WeaponEquip : MonoBehaviour
             WeaponSystem weaponSystem = collision.GetComponent<WeaponSystem>();
             if (weaponSystem != null && !weaponSystem.IsEquipedWeapon()) 
             {
-                weaponSystem.EquipWeapon(Index);
+                weaponSystem.EquipWeapon(_weaponController.WeaponIndex, _weaponController.CurrentAmmo);
                 Destroy(gameObject);
             }
         }

@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 1392317144045303246}
   - component: {fileID: 2392098862957341486}
   - component: {fileID: 8497569540725443279}
+  - component: {fileID: 7227264307810989715}
   m_Layer: 0
   m_Name: Weapon_Uzi
   m_TagString: Weapon
@@ -148,3 +149,15 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Index: 0
+--- !u!114 &7227264307810989715
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7257775768551145363}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3727d8b8cf8344468dd428f34c333de, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 

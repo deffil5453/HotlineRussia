@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 1365403490224596843}
   - component: {fileID: 7852517076165581000}
   - component: {fileID: 2334901241993025047}
+  - component: {fileID: -3127911099962212731}
   m_Layer: 0
   m_Name: Weapon_Tesak
   m_TagString: Untagged
@@ -101,7 +102,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 79f2c8f6c225825438b3bd911d022bc7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Index: 1
 --- !u!61 &2334901241993025047
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -148,3 +148,17 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 0.29479674, y: 0.08575481}
   m_EdgeRadius: 0
+--- !u!114 &-3127911099962212731
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8542688032625003885}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3727d8b8cf8344468dd428f34c333de, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  WeaponIndex: 0
+  CurrentAmmo: 30

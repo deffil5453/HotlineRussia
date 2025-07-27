@@ -867,25 +867,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _animator: {fileID: 1042545459}
-  _weapons:
-  - Name: "\u0423\u0437\u0438"
-    AttackCooldown: 0.1
-    WeaponPrefab: {fileID: 7257775768551145363, guid: 937124147e0a08146b698a8fad85d2a1, type: 3}
-    BulletPrefab: {fileID: 7436404923993360202, guid: 86d81f1f95ee8e744a33fa9e5c31d14d, type: 3}
-    BulletCount: 35
-    AnimatorOverrideController: {fileID: 22100000, guid: a4825379969dc77459f7ab31bd24e3da, type: 2}
-    WeaponType: 1
-  - Name: "\u0422\u0435\u0441\u0430\u043A"
-    AttackCooldown: 0.5
-    WeaponPrefab: {fileID: 8542688032625003885, guid: 5c5494b4530e89340bc5dc8036256e82, type: 3}
-    BulletPrefab: {fileID: 0}
-    BulletCount: 0
-    AnimatorOverrideController: {fileID: 22100000, guid: 836323b486d3d0f40a141da35c72bdad, type: 2}
-    WeaponType: 0
+  _weapons: {fileID: 11400000, guid: 1e45b20338c84b14cb32ede4a4d76eb9, type: 2}
   _defaultAnimatorController: {fileID: 9100000, guid: 709a48aa866378343b071cc999808798, type: 2}
   _weaponIndex: -1
   _bodyTransform: {fileID: 1042545456}
   _isEquipedWeapon: 0
+  _bulletPrefab: {fileID: 7436404923993360202, guid: 86d81f1f95ee8e744a33fa9e5c31d14d, type: 3}
+  _textAmmoBlock: {fileID: 1733746333}
+  _textCurrentAmmo: {fileID: 1725213623}
 --- !u!114 &1096009604
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1065,7 +1054,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1733746334
 RectTransform:
   m_ObjectHideFlags: 0
@@ -1086,6 +1075,71 @@ RectTransform:
   m_AnchoredPosition: {x: -50, y: 50}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
+--- !u!1001 &1808463759
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4263058775749713850, guid: 937124147e0a08146b698a8fad85d2a1, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 1.678
+      objectReference: {fileID: 0}
+    - target: {fileID: 4263058775749713850, guid: 937124147e0a08146b698a8fad85d2a1, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.668
+      objectReference: {fileID: 0}
+    - target: {fileID: 4263058775749713850, guid: 937124147e0a08146b698a8fad85d2a1, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4263058775749713850, guid: 937124147e0a08146b698a8fad85d2a1, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4263058775749713850, guid: 937124147e0a08146b698a8fad85d2a1, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4263058775749713850, guid: 937124147e0a08146b698a8fad85d2a1, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4263058775749713850, guid: 937124147e0a08146b698a8fad85d2a1, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4263058775749713850, guid: 937124147e0a08146b698a8fad85d2a1, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4263058775749713850, guid: 937124147e0a08146b698a8fad85d2a1, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4263058775749713850, guid: 937124147e0a08146b698a8fad85d2a1, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7227264307810989715, guid: 937124147e0a08146b698a8fad85d2a1, type: 3}
+      propertyPath: CurrentAmmo
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 7227264307810989715, guid: 937124147e0a08146b698a8fad85d2a1, type: 3}
+      propertyPath: WeaponIndex
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7257775768551145363, guid: 937124147e0a08146b698a8fad85d2a1, type: 3}
+      propertyPath: m_Name
+      value: Weapon_Uzi (1)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 937124147e0a08146b698a8fad85d2a1, type: 3}
 --- !u!1001 &1952237082169412703
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1094,6 +1148,14 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: -3127911099962212731, guid: 5c5494b4530e89340bc5dc8036256e82, type: 3}
+      propertyPath: CurrentAmmo
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: -3127911099962212731, guid: 5c5494b4530e89340bc5dc8036256e82, type: 3}
+      propertyPath: WeaponIndex
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 991645875793560120, guid: 5c5494b4530e89340bc5dc8036256e82, type: 3}
       propertyPath: m_LocalPosition.x
       value: 1.63248
@@ -1207,6 +1269,7 @@ SceneRoots:
   - {fileID: 519420032}
   - {fileID: 619394802}
   - {fileID: 6748977364792406699}
+  - {fileID: 1808463759}
   - {fileID: 1952237082169412703}
   - {fileID: 1096009596}
   - {fileID: 314808192}
