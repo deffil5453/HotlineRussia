@@ -1,21 +1,6 @@
-using System.Collections.Generic;
 using TMPro;
 using UnityEngine;
 
-[System.Serializable]
-public enum WeaponType { Melee, Ranged }
-[System.Serializable]
-public class WeaponData
-{
-    public string Name;
-    public float AttackCooldown;
-    public GameObject WeaponPrefab;
-
-    public int MaxAmmo;
-    public AnimatorOverrideController AnimatorOverrideController;
-    public WeaponType WeaponType;
-
-}
 public class WeaponSystem : MonoBehaviour
 {
     [SerializeField] private Animator _animator;
@@ -74,8 +59,6 @@ public class WeaponSystem : MonoBehaviour
         //Создаём само оружие
         _currentWeapon.Drop(_bodyTransform, _weaponIndex, currentAmmo);
 
-        
-
         _textAmmoBlock.SetActive(false);
         _currentWeapon = null;
 
@@ -121,7 +104,7 @@ public class WeaponSystem : MonoBehaviour
         {
             return;
         }
-        
+
         Debug.Log(currentAmmo);
         _textCurrentAmmo.text = $"{currentAmmo}/{maxAmmo}";
     }
