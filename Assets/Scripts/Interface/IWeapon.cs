@@ -6,6 +6,6 @@ namespace Assets.Scripts.Interface
     {
         void Equip(Animator animator);
         void Drop(Transform bodyTransform, int _weaponIndex, int currentAmmo = -1);
-        void Attack(Transform transform, GameObject bullet);
+        void Attack(Transform transform, GameObject bullet, Transform bulletSpawn);
     }
 }

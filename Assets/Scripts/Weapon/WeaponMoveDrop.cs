@@ -8,18 +8,18 @@ public class WeaponMoveDrop : MonoBehaviour
     private void Start()
     {
         startPositon = transform.position;
-        endPositon = transform.position + transform.right * 3f;
-        StartCoroutine(MoveWeaponToPosition(transform, startPositon, endPositon, 2f));
+        endPositon = transform.position + transform.right * 12f;
+        StartCoroutine(MoveWeaponToPosition(transform, startPositon, endPositon, 1f));
     }
     private IEnumerator MoveWeaponToPosition(Transform weaponPosition, Vector3 startPosition, Vector3 dropPosition, float duration)
     {
         float elapsed = 0f; // Текущая продолжительность
-        float rotationSpeed = 100f; // скорость вращения(градуссы/c)
+        float rotationSpeed = 60f; // скорость вращения(градуссы/c)
         while (elapsed < duration)
         {
             float t = elapsed / duration;
             weaponPosition.position = Vector3.Lerp(startPosition, dropPosition, t);
-            weaponPosition.Rotate(Vector3.forward, rotationSpeed * Time.deltaTime);
+            weaponPosition.Rotate(Vector3.forward, rotationSpeed);
             elapsed += Time.deltaTime;
             yield return null;
         }

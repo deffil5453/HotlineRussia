@@ -12,11 +12,12 @@ public class WeaponInstance : IWeapon
         WeaponData = weaponData;
     }
 
-    public void Attack(Transform transform, GameObject bullet)
+    public void Attack(Transform transform, GameObject bullet, Transform bulletSpawn)
     {
         if (WeaponData.WeaponType == WeaponType.Ranged)
         {
-            MonoBehaviour.Instantiate(bullet, transform.position, transform.rotation * Quaternion.Euler(0, 0, UnityEngine.Random.Range(-5, 5)));
+            Debug.Log(bulletSpawn.position);
+            MonoBehaviour.Instantiate(bullet, bulletSpawn.position, transform.rotation * Quaternion.Euler(0, 0, UnityEngine.Random.Range(-5, 5)));
             CurrentAmmo--;
             AmmoChanged?.Invoke();
         }
@@ -24,6 +25,7 @@ public class WeaponInstance : IWeapon
 
     public void Drop(Transform bodyTransform, int _weaponIndex, int currentAmmo = -1)
     {
+       
         GameObject createWeapon = MonoBehaviour.Instantiate(WeaponData.WeaponPrefab, bodyTransform.position, bodyTransform.rotation);
         createWeapon.GetComponent<WeaponEquip>().enabled = false;
         createWeapon.AddComponent<WeaponMoveDrop>();
@@ -37,6 +39,6 @@ public class WeaponInstance : IWeapon
     public void Equip(Animator animator)
     {
         animator.runtimeAnimatorController = WeaponData.AnimatorOverrideController;
-    }   
+    }
     public event Action AmmoChanged;
 }

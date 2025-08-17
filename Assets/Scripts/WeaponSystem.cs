@@ -14,7 +14,7 @@ public class WeaponSystem : MonoBehaviour
     [Header("Отображение кол-ва патронов")]
     [SerializeField] private GameObject _textAmmoBlock;
     [SerializeField] private TMP_Text _textCurrentAmmo;
-
+    [SerializeField] private Transform _bulletSpawn;
     private WeaponInstance _currentWeapon;
     public bool IsEquipedWeapon() => _isEquipedWeapon;
     public int WeaponIndex
@@ -69,7 +69,7 @@ public class WeaponSystem : MonoBehaviour
     {
         if (!_isEquipedWeapon)
         {
-            AttachNoWeapon();
+            AttackNoWeapon();
         }
         else
         {
@@ -81,7 +81,7 @@ public class WeaponSystem : MonoBehaviour
             _animator.SetTrigger("Attack");
             if (true)
             {
-                _currentWeapon.Attack(_bodyTransform, _bulletPrefab);
+                _currentWeapon.Attack(_bodyTransform, _bulletPrefab, _bulletSpawn);
             }
         }
 
@@ -94,7 +94,7 @@ public class WeaponSystem : MonoBehaviour
         }
         return _weapons.Weapons[_weaponIndex].AttackCooldown;
     }
-    private void AttachNoWeapon()
+    private void AttackNoWeapon()
     {
         _animator.SetTrigger("Attack");
     }

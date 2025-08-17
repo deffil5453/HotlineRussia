@@ -10331,10 +10331,10 @@ TextureImporter:
       name: "\u0437\u0430\u0433\u0440\u0443\u0436\u0435\u043D\u043E_385"
       rect:
         serializedVersion: 2
-        x: 1311
-        y: 604
-        width: 36
-        height: 21
+        x: 1312
+        y: 605
+        width: 35
+        height: 19
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -10665,8 +10665,8 @@ TextureImporter:
         y: 461
         width: 39
         height: 19
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.42461687, y: 0.48861372}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -11805,7 +11805,7 @@ TextureImporter:
       name: "\u0437\u0430\u0433\u0440\u0443\u0436\u0435\u043D\u043E_458"
       rect:
         serializedVersion: 2
-        x: 417
+        x: 416
         y: 387
         width: 30
         height: 21
@@ -13940,7 +13940,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 654
-        y: 95
+        y: 96
         width: 27
         height: 30
       alignment: 0
