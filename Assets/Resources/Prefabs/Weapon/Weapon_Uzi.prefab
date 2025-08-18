@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 2392098862957341486}
   - component: {fileID: 8497569540725443279}
   - component: {fileID: 7227264307810989715}
+  - component: {fileID: 5109960350291184192}
   m_Layer: 0
   m_Name: Weapon_Uzi
   m_TagString: Weapon
@@ -162,3 +163,30 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   WeaponIndex: 0
   CurrentAmmo: 30
+--- !u!50 &5109960350291184192
+Rigidbody2D:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7257775768551145363}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDamping: 0
+  m_AngularDamping: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0

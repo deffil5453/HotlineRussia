@@ -18,7 +18,7 @@ public class PersonDead : MonoBehaviour
     {
         GetComponentInChildren<Animator>().enabled = false;
         int deadNumberSprite = Random.Range(0, _deadSpriteRenderes.Length);
-        Debug.Log(deadNumberSprite);
+        
         _currentSpriteRenderes.sprite = _deadSpriteRenderes[deadNumberSprite];
     }
 }

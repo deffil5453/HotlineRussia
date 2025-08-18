@@ -16,7 +16,6 @@ public class WeaponInstance : IWeapon
     {
         if (WeaponData.WeaponType == WeaponType.Ranged)
         {
-            Debug.Log(bulletSpawn.position);
             MonoBehaviour.Instantiate(bullet, bulletSpawn.position, transform.rotation * Quaternion.Euler(0, 0, UnityEngine.Random.Range(-5, 5)));
             CurrentAmmo--;
             AmmoChanged?.Invoke();

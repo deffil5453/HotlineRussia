@@ -32,7 +32,6 @@ public class WeaponSystem : MonoBehaviour
     public void EquipWeapon(int index, int currentAmmo)
     {
         if (index < 0) return;
-        Debug.Log("оружие взял");
         _isEquipedWeapon = true;
         _weaponIndex = index;
 
@@ -105,7 +104,6 @@ public class WeaponSystem : MonoBehaviour
             return;
         }
 
-        Debug.Log(currentAmmo);
         _textCurrentAmmo.text = $"{currentAmmo}/{maxAmmo}";
     }
 }
