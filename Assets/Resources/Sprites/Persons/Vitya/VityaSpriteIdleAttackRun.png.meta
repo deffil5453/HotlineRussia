@@ -1,0 +1,1480 @@
+fileFormatVersion: 2
+guid: bbdb5c7c778550c42a5a1d409c508c76
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9106495828284477371
+    second: VityaSpriteIdleAttackRun_0
+  - first:
+      213: -3700269903461354342
+    second: VityaSpriteIdleAttackRun_1
+  - first:
+      213: 5686425589689099803
+    second: VityaSpriteIdleAttackRun_2
+  - first:
+      213: 2581504546609458839
+    second: VityaSpriteIdleAttackRun_3
+  - first:
+      213: 5211994195942545106
+    second: VityaSpriteIdleAttackRun_4
+  - first:
+      213: -1616534423261813991
+    second: VityaSpriteIdleAttackRun_5
+  - first:
+      213: -7663371156474810580
+    second: VityaSpriteIdleAttackRun_6
+  - first:
+      213: 1838211862328198295
+    second: VityaSpriteIdleAttackRun_7
+  - first:
+      213: -4101051553861718313
+    second: VityaSpriteIdleAttackRun_8
+  - first:
+      213: 8467764078981875402
+    second: VityaSpriteIdleAttackRun_9
+  - first:
+      213: 2090596100808181068
+    second: VityaSpriteIdleAttackRun_10
+  - first:
+      213: 7886093751649860158
+    second: VityaSpriteIdleAttackRun_11
+  - first:
+      213: -4067762820849223252
+    second: VityaSpriteIdleAttackRun_12
+  - first:
+      213: 5564799149236465210
+    second: VityaSpriteIdleAttackRun_13
+  - first:
+      213: 6095588098872329672
+    second: VityaSpriteIdleAttackRun_14
+  - first:
+      213: -1586479696473548327
+    second: VityaSpriteIdleAttackRun_15
+  - first:
+      213: -1722765361102027552
+    second: VityaSpriteIdleAttackRun_16
+  - first:
+      213: -8333659192859748357
+    second: VityaSpriteIdleAttackRun_17
+  - first:
+      213: -5630789949678221223
+    second: VityaSpriteIdleAttackRun_18
+  - first:
+      213: 4869068716910738951
+    second: VityaSpriteIdleAttackRun_19
+  - first:
+      213: -7313276235277629753
+    second: VityaSpriteIdleAttackRun_20
+  - first:
+      213: 9045340349400297944
+    second: VityaSpriteIdleAttackRun_21
+  - first:
+      213: -3600287047531326111
+    second: VityaSpriteIdleAttackRun_22
+  - first:
+      213: 7190272787560383335
+    second: VityaSpriteIdleAttackRun_23
+  - first:
+      213: 6536430881532675749
+    second: VityaSpriteIdleAttackRun_24
+  - first:
+      213: 414098606261536155
+    second: VityaSpriteIdleAttackRun_25
+  - first:
+      213: -4443698756451343094
+    second: VityaSpriteIdleAttackRun_26
+  - first:
+      213: 4215340996010462095
+    second: VityaSpriteIdleAttackRun_27
+  - first:
+      213: 4257280697335879104
+    second: VityaSpriteIdleAttackRun_28
+  - first:
+      213: -2749487461545856689
+    second: VityaSpriteIdleAttackRun_29
+  - first:
+      213: 4878219791287522849
+    second: VityaSpriteIdleAttackRun_30
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VityaSpriteIdleAttackRun_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1010
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 540f68eda4a3f9180800000000000000
+      internalID: -9106495828284477371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VityaSpriteIdleAttackRun_1
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 1010
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a94fd1fa02006acc0800000000000000
+      internalID: -3700269903461354342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VityaSpriteIdleAttackRun_2
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1010
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b162c1322fd3aee40800000000000000
+      internalID: 5686425589689099803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VityaSpriteIdleAttackRun_3
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1010
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79e66be25b853d320800000000000000
+      internalID: 2581504546609458839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VityaSpriteIdleAttackRun_4
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1010
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d69d8c5b19b45840800000000000000
+      internalID: 5211994195942545106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VityaSpriteIdleAttackRun_5
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1010
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 913e94eb18ae099e0800000000000000
+      internalID: -1616534423261813991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VityaSpriteIdleAttackRun_6
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 1010
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2f2854198c36a590800000000000000
+      internalID: -7663371156474810580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VityaSpriteIdleAttackRun_7
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 1010
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7944bf313f3a28910800000000000000
+      internalID: 1838211862328198295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VityaSpriteIdleAttackRun_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 940
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7de228e07532617c0800000000000000
+      internalID: -4101051553861718313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VityaSpriteIdleAttackRun_9
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 940
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac60781d09a838570800000000000000
+      internalID: 8467764078981875402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VityaSpriteIdleAttackRun_10
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 940
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c450d75c31a430d10800000000000000
+      internalID: 2090596100808181068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VityaSpriteIdleAttackRun_11
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 940
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3a748c1c78017d60800000000000000
+      internalID: 7886093751649860158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VityaSpriteIdleAttackRun_12
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 940
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca9bdb034476c87c0800000000000000
+      internalID: -4067762820849223252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VityaSpriteIdleAttackRun_13
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 940
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3ea2a8b7532a3d40800000000000000
+      internalID: 5564799149236465210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VityaSpriteIdleAttackRun_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 870
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c542628411e79450800000000000000
+      internalID: 6095588098872329672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VityaSpriteIdleAttackRun_15
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 870
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d913502f11bbf9e0800000000000000
+      internalID: -1586479696473548327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VityaSpriteIdleAttackRun_16
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 870
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e48a2c18028718e0800000000000000
+      internalID: -1722765361102027552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VityaSpriteIdleAttackRun_17
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 870
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf71d622e15e85c80800000000000000
+      internalID: -8333659192859748357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VityaSpriteIdleAttackRun_18
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 870
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 958079cbf5a6bd1b0800000000000000
+      internalID: -5630789949678221223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VityaSpriteIdleAttackRun_19
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 870
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70e7e6a5338629340800000000000000
+      internalID: 4869068716910738951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VityaSpriteIdleAttackRun_20
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 870
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c688fbe206028a90800000000000000
+      internalID: -7313276235277629753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VityaSpriteIdleAttackRun_21
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 870
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d1338e9f11878d70800000000000000
+      internalID: 9045340349400297944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VityaSpriteIdleAttackRun_22
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 870
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16594726106390ec0800000000000000
+      internalID: -3600287047531326111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VityaSpriteIdleAttackRun_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 800
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 763c1bc210bf8c360800000000000000
+      internalID: 7190272787560383335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VityaSpriteIdleAttackRun_24
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 800
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a606a8514116ba50800000000000000
+      internalID: 6536430881532675749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VityaSpriteIdleAttackRun_25
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 800
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9504380d7c2fb500800000000000000
+      internalID: 414098606261536155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VityaSpriteIdleAttackRun_26
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 800
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a056fd4568fc452c0800000000000000
+      internalID: -4443698756451343094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VityaSpriteIdleAttackRun_27
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 800
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8b48525d46ef7a30800000000000000
+      internalID: 4215340996010462095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VityaSpriteIdleAttackRun_28
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 800
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c515d9fc36e41b30800000000000000
+      internalID: 4257280697335879104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VityaSpriteIdleAttackRun_29
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 800
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f413b2c98bbd7d9d0800000000000000
+      internalID: -2749487461545856689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VityaSpriteIdleAttackRun_30
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 800
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12619f3ed0be2b340800000000000000
+      internalID: 4878219791287522849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VityaSpriteIdleAttackRun_31
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 800
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6960271dff739724cbeeeaef714191f3
+      internalID: 1585002762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VityaSpriteIdleAttackRun_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 730
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 198130fc4247fb44f8749f36c5255a49
+      internalID: -2096382210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VityaSpriteIdleAttackRun_33
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 730
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3bcd3da63c1bcf4184725cc507efbf9
+      internalID: -771698399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VityaSpriteIdleAttackRun_34
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 730
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ff383daaf0452344bad0fb3c26ab3f1
+      internalID: 2142275801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VityaSpriteIdleAttackRun_35
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 730
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5bd1fc1b90f9624a8ecdd1ee55dfabd
+      internalID: 1607189934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VityaSpriteIdleAttackRun_36
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 730
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f4faa8d67ac11f42a373b350d8917b9
+      internalID: -1422311956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VityaSpriteIdleAttackRun_37
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 730
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 075f062aa2f55344f93b483422c0bc5c
+      internalID: 2078233419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VityaSpriteIdleAttackRun_38
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 730
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ce94ca5be37c1b46956e436830f7e71
+      internalID: -822328518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VityaSpriteIdleAttackRun_39
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 730
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b89452ee6e9f2af4a9fe9f0102108e2c
+      internalID: 1189660579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VityaSpriteIdleAttackRun_40
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 730
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8903268f4b43f442b1b4f75696a9678
+      internalID: 301061696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VityaSpriteIdleAttackRun_41
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 730
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce8f71d08cfce1c4caa24a58e8498d78
+      internalID: -1722158874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VityaSpriteIdleAttackRun_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 660
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fdf4a23624e0834e91e51062aa00ed5
+      internalID: -336590609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VityaSpriteIdleAttackRun_43
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 660
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d8868437be5f3541a9817aae5480f8b
+      internalID: 2106787812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VityaSpriteIdleAttackRun_44
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 660
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebcb1a87493e63e4a82b82379a8e90f6
+      internalID: 600936617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VityaSpriteIdleAttackRun_45
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 660
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f2e1d5428e0a9f49ae113137137c22b
+      internalID: 998546472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VityaSpriteIdleAttackRun_46
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 660
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cce6327cabe9fe6439794c8fe05feb5f
+      internalID: -842056553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VityaSpriteIdleAttackRun_47
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 660
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbcc95de39317a64298256707e4cf065
+      internalID: 1105782765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VityaSpriteIdleAttackRun_48
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 660
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e05feee0dc884b4aadbebabac299d03
+      internalID: -1991447161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VityaSpriteIdleAttackRun_49
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 660
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e4fa686f628ffb458b6d8157c317efb
+      internalID: -303324626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VityaSpriteIdleAttackRun_50
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 660
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29ae0a7b6ca385043ac599387a33accb
+      internalID: -1068965964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VityaSpriteIdleAttackRun_51
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 660
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae66c7635a3a2be4692b5428b0f8d3b3
+      internalID: 1791533730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VityaSpriteIdleAttackRun_52
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 660
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d420066334fe3c4ea562f41e572ff67
+      internalID: 1703898508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VityaSpriteIdleAttackRun_53
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 660
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5968f42a5e1101841aec5f035b24f346
+      internalID: -1102613708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 41fe2e0fcd67daf48aaae79675f02971
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":70.0,"y":70.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      VityaSpriteIdleAttackRun_0: -9106495828284477371
+      VityaSpriteIdleAttackRun_1: -3700269903461354342
+      VityaSpriteIdleAttackRun_10: 2090596100808181068
+      VityaSpriteIdleAttackRun_11: 7886093751649860158
+      VityaSpriteIdleAttackRun_12: -4067762820849223252
+      VityaSpriteIdleAttackRun_13: 5564799149236465210
+      VityaSpriteIdleAttackRun_14: 6095588098872329672
+      VityaSpriteIdleAttackRun_15: -1586479696473548327
+      VityaSpriteIdleAttackRun_16: -1722765361102027552
+      VityaSpriteIdleAttackRun_17: -8333659192859748357
+      VityaSpriteIdleAttackRun_18: -5630789949678221223
+      VityaSpriteIdleAttackRun_19: 4869068716910738951
+      VityaSpriteIdleAttackRun_2: 5686425589689099803
+      VityaSpriteIdleAttackRun_20: -7313276235277629753
+      VityaSpriteIdleAttackRun_21: 9045340349400297944
+      VityaSpriteIdleAttackRun_22: -3600287047531326111
+      VityaSpriteIdleAttackRun_23: 7190272787560383335
+      VityaSpriteIdleAttackRun_24: 6536430881532675749
+      VityaSpriteIdleAttackRun_25: 414098606261536155
+      VityaSpriteIdleAttackRun_26: -4443698756451343094
+      VityaSpriteIdleAttackRun_27: 4215340996010462095
+      VityaSpriteIdleAttackRun_28: 4257280697335879104
+      VityaSpriteIdleAttackRun_29: -2749487461545856689
+      VityaSpriteIdleAttackRun_3: 2581504546609458839
+      VityaSpriteIdleAttackRun_30: 4878219791287522849
+      VityaSpriteIdleAttackRun_31: 1585002762
+      VityaSpriteIdleAttackRun_32: -2096382210
+      VityaSpriteIdleAttackRun_33: -771698399
+      VityaSpriteIdleAttackRun_34: 2142275801
+      VityaSpriteIdleAttackRun_35: 1607189934
+      VityaSpriteIdleAttackRun_36: -1422311956
+      VityaSpriteIdleAttackRun_37: 2078233419
+      VityaSpriteIdleAttackRun_38: -822328518
+      VityaSpriteIdleAttackRun_39: 1189660579
+      VityaSpriteIdleAttackRun_4: 5211994195942545106
+      VityaSpriteIdleAttackRun_40: 301061696
+      VityaSpriteIdleAttackRun_41: -1722158874
+      VityaSpriteIdleAttackRun_42: -336590609
+      VityaSpriteIdleAttackRun_43: 2106787812
+      VityaSpriteIdleAttackRun_44: 600936617
+      VityaSpriteIdleAttackRun_45: 998546472
+      VityaSpriteIdleAttackRun_46: -842056553
+      VityaSpriteIdleAttackRun_47: 1105782765
+      VityaSpriteIdleAttackRun_48: -1991447161
+      VityaSpriteIdleAttackRun_49: -303324626
+      VityaSpriteIdleAttackRun_5: -1616534423261813991
+      VityaSpriteIdleAttackRun_50: -1068965964
+      VityaSpriteIdleAttackRun_51: 1791533730
+      VityaSpriteIdleAttackRun_52: 1703898508
+      VityaSpriteIdleAttackRun_53: -1102613708
+      VityaSpriteIdleAttackRun_6: -7663371156474810580
+      VityaSpriteIdleAttackRun_7: 1838211862328198295
+      VityaSpriteIdleAttackRun_8: -4101051553861718313
+      VityaSpriteIdleAttackRun_9: 8467764078981875402
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

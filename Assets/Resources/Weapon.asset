@@ -25,3 +25,9 @@ MonoBehaviour:
     MaxAmmo: -1
     AnimatorOverrideController: {fileID: 22100000, guid: 836323b486d3d0f40a141da35c72bdad, type: 2}
     WeaponType: 0
+  - Name: "\u0414\u0440\u043E\u0431\u043E\u0432\u0438\u043A"
+    AttackCooldown: 0.5
+    WeaponPrefab: {fileID: 8430098037131427555, guid: dc5ee854d9627cc43b60ad18df8f40fd, type: 3}
+    MaxAmmo: -1
+    AnimatorOverrideController: {fileID: 22100000, guid: 836323b486d3d0f40a141da35c72bdad, type: 2}
+    WeaponType: 1

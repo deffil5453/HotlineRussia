@@ -365,7 +365,7 @@ TextureImporter:
         width: 15
         height: 13
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -387,7 +387,7 @@ TextureImporter:
         width: 15
         height: 10
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -409,7 +409,7 @@ TextureImporter:
         width: 33
         height: 13
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -431,7 +431,7 @@ TextureImporter:
         width: 82
         height: 10
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -453,7 +453,7 @@ TextureImporter:
         width: 15
         height: 8
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -470,12 +470,12 @@ TextureImporter:
       name: 164711_5
       rect:
         serializedVersion: 2
-        x: 258
-        y: 334
-        width: 34
-        height: 9
+        x: 259
+        y: 335
+        width: 32
+        height: 7
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -497,7 +497,7 @@ TextureImporter:
         width: 16
         height: 14
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -519,7 +519,7 @@ TextureImporter:
         width: 15
         height: 10
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -541,7 +541,7 @@ TextureImporter:
         width: 15
         height: 10
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -563,7 +563,7 @@ TextureImporter:
         width: 15
         height: 10
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -585,7 +585,7 @@ TextureImporter:
         width: 15
         height: 10
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -607,7 +607,7 @@ TextureImporter:
         width: 15
         height: 10
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -629,7 +629,7 @@ TextureImporter:
         width: 15
         height: 10
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -651,7 +651,7 @@ TextureImporter:
         width: 29
         height: 11
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -673,7 +673,7 @@ TextureImporter:
         width: 17
         height: 11
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -690,12 +690,12 @@ TextureImporter:
       name: 164711_15
       rect:
         serializedVersion: 2
-        x: 140
-        y: 216
-        width: 88
-        height: 69
+        x: 197
+        y: 272
+        width: 30
+        height: 12
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -717,7 +717,7 @@ TextureImporter:
         width: 31
         height: 7
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -739,7 +739,7 @@ TextureImporter:
         width: 22
         height: 13
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -761,7 +761,7 @@ TextureImporter:
         width: 15
         height: 10
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -783,7 +783,7 @@ TextureImporter:
         width: 15
         height: 10
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -805,7 +805,7 @@ TextureImporter:
         width: 15
         height: 10
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -827,7 +827,7 @@ TextureImporter:
         width: 15
         height: 10
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -849,7 +849,7 @@ TextureImporter:
         width: 15
         height: 6
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -871,7 +871,7 @@ TextureImporter:
         width: 15
         height: 10
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -893,7 +893,7 @@ TextureImporter:
         width: 15
         height: 10
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -915,7 +915,7 @@ TextureImporter:
         width: 29
         height: 6
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -937,7 +937,7 @@ TextureImporter:
         width: 15
         height: 11
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -959,7 +959,7 @@ TextureImporter:
         width: 9
         height: 9
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -981,7 +981,7 @@ TextureImporter:
         width: 7
         height: 7
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1003,7 +1003,7 @@ TextureImporter:
         width: 12
         height: 9
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1025,7 +1025,7 @@ TextureImporter:
         width: 15
         height: 10
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1047,7 +1047,7 @@ TextureImporter:
         width: 14
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1069,7 +1069,7 @@ TextureImporter:
         width: 81
         height: 14
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1091,7 +1091,7 @@ TextureImporter:
         width: 69
         height: 6
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1108,12 +1108,12 @@ TextureImporter:
       name: 164711_34
       rect:
         serializedVersion: 2
-        x: 19
-        y: 93
-        width: 97
-        height: 6
+        x: 20
+        y: 94
+        width: 21
+        height: 4
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1135,7 +1135,7 @@ TextureImporter:
         width: 9
         height: 6
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1157,7 +1157,7 @@ TextureImporter:
         width: 28
         height: 10
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1179,7 +1179,7 @@ TextureImporter:
         width: 32
         height: 11
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1196,12 +1196,12 @@ TextureImporter:
       name: 164711_38
       rect:
         serializedVersion: 2
-        x: 31
-        y: 44
-        width: 28
-        height: 16
+        x: 32
+        y: 45
+        width: 26
+        height: 14
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1215,15 +1215,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 164711_39
+      name: Weapon_Pistol_Mufller
       rect:
         serializedVersion: 2
-        x: 65
-        y: 47
-        width: 18
-        height: 8
+        x: 66
+        y: 48
+        width: 16
+        height: 6
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1240,12 +1240,12 @@ TextureImporter:
       name: 164711_40
       rect:
         serializedVersion: 2
-        x: 92
-        y: 46
-        width: 23
-        height: 14
+        x: 93
+        y: 47
+        width: 21
+        height: 12
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1262,12 +1262,12 @@ TextureImporter:
       name: 164711_41
       rect:
         serializedVersion: 2
-        x: 114
+        x: 115
         y: 52
-        width: 7
+        width: 6
         height: 8
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1289,7 +1289,7 @@ TextureImporter:
         width: 6
         height: 9
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1303,15 +1303,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 164711_43
+      name: Weapon_Pistol
       rect:
         serializedVersion: 2
-        x: 131
-        y: 46
-        width: 13
-        height: 8
+        x: 132
+        y: 47
+        width: 11
+        height: 6
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1333,7 +1333,7 @@ TextureImporter:
         width: 23
         height: 8
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1355,7 +1355,7 @@ TextureImporter:
         width: 23
         height: 8
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1369,15 +1369,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 164711_46
+      name: Weapon_M16
       rect:
         serializedVersion: 2
-        x: 182
-        y: 46
-        width: 33
-        height: 13
+        x: 183
+        y: 47
+        width: 31
+        height: 11
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1399,7 +1399,7 @@ TextureImporter:
         width: 20
         height: 9
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1416,12 +1416,12 @@ TextureImporter:
       name: 164711_48
       rect:
         serializedVersion: 2
-        x: 31
-        y: 30
-        width: 29
-        height: 15
+        x: 32
+        y: 41
+        width: 21
+        height: 3
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1435,15 +1435,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 164711_49
+      name: Weapon_Baseball
       rect:
         serializedVersion: 2
-        x: 92
-        y: 41
-        width: 23
-        height: 6
+        x: 93
+        y: 42
+        width: 21
+        height: 4
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1460,12 +1460,12 @@ TextureImporter:
       name: 164711_50
       rect:
         serializedVersion: 2
-        x: 92
-        y: 33
-        width: 28
-        height: 8
+        x: 93
+        y: 34
+        width: 26
+        height: 6
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1479,15 +1479,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 164711_51
+      name: Weapon_AWP
       rect:
         serializedVersion: 2
-        x: 121
-        y: 29
-        width: 41
-        height: 12
+        x: 122
+        y: 30
+        width: 39
+        height: 10
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1505,11 +1505,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 153
-        y: 40
+        y: 41
         width: 14
-        height: 6
+        height: 5
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1523,15 +1523,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 164711_53
+      name: Weapon_Chainsaw
       rect:
         serializedVersion: 2
-        x: 161
-        y: 32
-        width: 21
-        height: 9
+        x: 162
+        y: 33
+        width: 19
+        height: 7
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1548,12 +1548,12 @@ TextureImporter:
       name: 164711_54
       rect:
         serializedVersion: 2
-        x: 182
-        y: 34
-        width: 33
-        height: 12
+        x: 183
+        y: 35
+        width: 31
+        height: 10
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1575,7 +1575,7 @@ TextureImporter:
         width: 16
         height: 9
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1589,15 +1589,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 164711_56
+      name: Weapon_Uber_ShotGun
       rect:
         serializedVersion: 2
-        x: 31
-        y: 22
-        width: 30
-        height: 9
+        x: 32
+        y: 23
+        width: 28
+        height: 7
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1611,15 +1611,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 164711_57
+      name: Weapon_ShotGun
       rect:
         serializedVersion: 2
-        x: 60
-        y: 26
-        width: 29
-        height: 11
+        x: 61
+        y: 27
+        width: 27
+        height: 9
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1636,12 +1636,12 @@ TextureImporter:
       name: 164711_58
       rect:
         serializedVersion: 2
-        x: 92
-        y: 28
-        width: 29
-        height: 6
+        x: 93
+        y: 29
+        width: 27
+        height: 4
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1663,7 +1663,7 @@ TextureImporter:
         width: 20
         height: 14
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1685,7 +1685,7 @@ TextureImporter:
         width: 6
         height: 7
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1702,12 +1702,12 @@ TextureImporter:
       name: 164711_61
       rect:
         serializedVersion: 2
-        x: 152
-        y: 18
-        width: 18
-        height: 12
+        x: 153
+        y: 19
+        width: 16
+        height: 10
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1729,7 +1729,7 @@ TextureImporter:
         width: 12
         height: 9
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1743,15 +1743,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 164711_63
+      name: Weapon_AK47
       rect:
         serializedVersion: 2
-        x: 182
-        y: 23
-        width: 33
-        height: 12
+        x: 183
+        y: 24
+        width: 31
+        height: 10
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1770,10 +1770,10 @@ TextureImporter:
         serializedVersion: 2
         x: 0
         y: 6
-        width: 32
+        width: 31
         height: 11
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1790,12 +1790,12 @@ TextureImporter:
       name: 164711_65
       rect:
         serializedVersion: 2
-        x: 31
-        y: 10
-        width: 25
-        height: 13
+        x: 32
+        y: 11
+        width: 23
+        height: 11
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1817,7 +1817,7 @@ TextureImporter:
         width: 21
         height: 20
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1839,7 +1839,7 @@ TextureImporter:
         width: 19
         height: 15
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1861,7 +1861,7 @@ TextureImporter:
         width: 12
         height: 7
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1875,15 +1875,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 164711_69
+      name: Weapon_AXE
       rect:
         serializedVersion: 2
-        x: 122
-        y: 14
-        width: 30
-        height: 13
+        x: 123
+        y: 15
+        width: 28
+        height: 11
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1897,15 +1897,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 164711_70
+      name: Weapon_Magnum
       rect:
         serializedVersion: 2
-        x: 152
-        y: 8
-        width: 17
-        height: 11
+        x: 153
+        y: 9
+        width: 15
+        height: 9
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1922,12 +1922,12 @@ TextureImporter:
       name: 164711_71
       rect:
         serializedVersion: 2
-        x: 168
+        x: 169
         y: 11
-        width: 14
-        height: 8
+        width: 13
+        height: 7
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1944,12 +1944,12 @@ TextureImporter:
       name: 164711_72
       rect:
         serializedVersion: 2
-        x: 31
+        x: 32
         y: 0
-        width: 25
-        height: 11
+        width: 23
+        height: 10
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1971,7 +1971,7 @@ TextureImporter:
         width: 6
         height: 6
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1993,7 +1993,7 @@ TextureImporter:
         width: 31
         height: 11
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2015,7 +2015,7 @@ TextureImporter:
         width: 12
         height: 6
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2037,7 +2037,7 @@ TextureImporter:
         width: 15
         height: 8
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2059,7 +2059,7 @@ TextureImporter:
         width: 13
         height: 6
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2076,7 +2076,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 08c36b0d056faa74ab6b5794743f2619
     internalID: 0
     vertices: []
     indices: 
@@ -2119,42 +2119,31 @@ TextureImporter:
       164711_36: -7041635478268317724
       164711_37: 7332046320261279665
       164711_38: 367450495133990897
-      164711_39: 3973446675947786853
       164711_4: 3250329456871999093
       164711_40: -6773922329405261214
       164711_41: 1588884979933411802
       164711_42: 7031745446278950935
-      164711_43: 8712739106675794828
       164711_44: -6481622352881736300
       164711_45: -418102301049698223
-      164711_46: -696533827400133922
       164711_47: -4455436743796810083
       164711_48: -8919453006953626157
-      164711_49: -9046244313069150000
       164711_5: -1643525347658118873
       164711_50: 1194346308864156018
-      164711_51: -185157105527671225
       164711_52: 4440667542471881395
-      164711_53: -6394511109000142896
       164711_54: 5695210245149886396
       164711_55: -5987219474592854210
-      164711_56: -7361239735210601422
-      164711_57: 2931007444462165359
       164711_58: 3206827939651990122
       164711_59: 1572232415189471498
       164711_6: -4537533623231648436
       164711_60: 2416315193833505355
       164711_61: -2742095757865398742
       164711_62: 6374702598691260454
-      164711_63: -4395079980943104743
       164711_64: 4056772978117046513
       164711_65: -2496711883845052289
       164711_66: -3756570638959368224
       164711_67: -3973276921133297244
       164711_68: -7496986358523972367
-      164711_69: -431727204675541570
       164711_7: 269199472004458249
-      164711_70: 1551507773192178865
       164711_71: -5749026335269482063
       164711_72: -2990359595306461213
       164711_73: 6876957021716227633
@@ -2164,6 +2153,17 @@ TextureImporter:
       164711_77: 4164373868781774208
       164711_8: -9134245046396428059
       164711_9: 7114975671029066994
+      Weapon_AK47: -4395079980943104743
+      Weapon_AWP: -185157105527671225
+      Weapon_AXE: -431727204675541570
+      Weapon_Baseball: -9046244313069150000
+      Weapon_Chainsaw: -6394511109000142896
+      Weapon_M16: -696533827400133922
+      Weapon_Magnum: 1551507773192178865
+      Weapon_Pistol: 8712739106675794828
+      Weapon_Pistol_Mufller: 3973446675947786853
+      Weapon_ShotGun: 2931007444462165359
+      Weapon_Uber_ShotGun: -7361239735210601422
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -1,0 +1,873 @@
+fileFormatVersion: 2
+guid: 12981e6f21af56d4e94301adac2e752c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6526628323190544524
+    second: VityaDeadSprite_0
+  - first:
+      213: -4704800684542086907
+    second: VityaDeadSprite_1
+  - first:
+      213: 2037881210458022257
+    second: VityaDeadSprite_2
+  - first:
+      213: -3640152191239916667
+    second: VityaDeadSprite_3
+  - first:
+      213: -6848153570014086416
+    second: VityaDeadSprite_4
+  - first:
+      213: 6362749258451351498
+    second: VityaDeadSprite_5
+  - first:
+      213: -1071833600577289512
+    second: VityaDeadSprite_6
+  - first:
+      213: -4467817082917662408
+    second: VityaDeadSprite_7
+  - first:
+      213: -2624983899040532495
+    second: VityaDeadSprite_8
+  - first:
+      213: 6676874530254324486
+    second: VityaDeadSprite_9
+  - first:
+      213: -5739141418572037401
+    second: VityaDeadSprite_10
+  - first:
+      213: 3425428684109999688
+    second: VityaDeadSprite_11
+  - first:
+      213: -1219579119484816404
+    second: VityaDeadSprite_12
+  - first:
+      213: 1306730114003131258
+    second: VityaDeadSprite_13
+  - first:
+      213: -1905293379584592118
+    second: VityaDeadSprite_14
+  - first:
+      213: 6724185535903590099
+    second: VityaDeadSprite_15
+  - first:
+      213: -4050577390841430310
+    second: VityaDeadSprite_16
+  - first:
+      213: 6466620428794546553
+    second: VityaDeadSprite_17
+  - first:
+      213: -5874162714381473957
+    second: VityaDeadSprite_18
+  - first:
+      213: 3415007156170299059
+    second: VityaDeadSprite_19
+  - first:
+      213: -2126743730432647872
+    second: VityaDeadSprite_20
+  - first:
+      213: 6872787643324737362
+    second: VityaDeadSprite_21
+  - first:
+      213: -6587809432807186999
+    second: VityaDeadSprite_22
+  - first:
+      213: -692635320569769596
+    second: VityaDeadSprite_23
+  - first:
+      213: -3614123066826325464
+    second: VityaDeadSprite_24
+  - first:
+      213: -5407935119108899239
+    second: VityaDeadSprite_25
+  - first:
+      213: 5252865733151190722
+    second: VityaDeadSprite_26
+  - first:
+      213: 8932284791033968717
+    second: VityaDeadSprite_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VityaDeadSprite_0
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 330
+        width: 56
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 477693f9e12cc65a0800000000000000
+      internalID: -6526628323190544524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VityaDeadSprite_1
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 330
+        width: 56
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 501bada54b035beb0800000000000000
+      internalID: -4704800684542086907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VityaDeadSprite_2
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 330
+        width: 56
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1712bcbe922084c10800000000000000
+      internalID: 2037881210458022257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VityaDeadSprite_3
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 330
+        width: 56
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 583f8c05ed49b7dc0800000000000000
+      internalID: -3640152191239916667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VityaDeadSprite_4
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 287
+        width: 56
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fabcf37c9876f0a0800000000000000
+      internalID: -6848153570014086416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VityaDeadSprite_5
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 287
+        width: 56
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac77fd04db60d4850800000000000000
+      internalID: 6362749258451351498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VityaDeadSprite_6
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 287
+        width: 56
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d24343e4051021f0800000000000000
+      internalID: -1071833600577289512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VityaDeadSprite_7
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 287
+        width: 56
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 831554bd8002ff1c0800000000000000
+      internalID: -4467817082917662408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VityaDeadSprite_8
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 244
+        width: 56
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f7b1943d0f229bd0800000000000000
+      internalID: -2624983899040532495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VityaDeadSprite_9
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 244
+        width: 56
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60389a9720609ac50800000000000000
+      internalID: 6676874530254324486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VityaDeadSprite_10
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 245
+        width: 56
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e2484e79497a50b0800000000000000
+      internalID: -5739141418572037401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VityaDeadSprite_11
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 245
+        width: 56
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84e6fcf4d31998f20800000000000000
+      internalID: 3425428684109999688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VityaDeadSprite_12
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 201
+        width: 56
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce3bf9f904f231fe0800000000000000
+      internalID: -1219579119484816404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VityaDeadSprite_13
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 201
+        width: 56
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7b56768d10722210800000000000000
+      internalID: 1306730114003131258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VityaDeadSprite_14
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 202
+        width: 56
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a07f4f414c90f85e0800000000000000
+      internalID: -1905293379584592118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VityaDeadSprite_15
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 202
+        width: 56
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d66a5f5e1b115d50800000000000000
+      internalID: 6724185535903590099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VityaDeadSprite_16
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 158
+        width: 56
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adefaabe25579c7c0800000000000000
+      internalID: -4050577390841430310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VityaDeadSprite_17
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 158
+        width: 56
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9794593b40d0eb950800000000000000
+      internalID: 6466620428794546553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VityaDeadSprite_18
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 159
+        width: 56
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b57a2784228ca7ea0800000000000000
+      internalID: -5874162714381473957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VityaDeadSprite_19
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 159
+        width: 56
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b692f04aea846f20800000000000000
+      internalID: 3415007156170299059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VityaDeadSprite_20
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 115
+        width: 56
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04dd54b58d94c72e0800000000000000
+      internalID: -2126743730432647872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VityaDeadSprite_21
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 115
+        width: 56
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 257a011b2fb016f50800000000000000
+      internalID: 6872787643324737362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VityaDeadSprite_22
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 117
+        width: 56
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cd5f8d79366394a0800000000000000
+      internalID: -6587809432807186999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VityaDeadSprite_23
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 117
+        width: 56
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 481dc8e78d34366f0800000000000000
+      internalID: -692635320569769596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VityaDeadSprite_24
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 72
+        width: 56
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 822854b183e08ddc0800000000000000
+      internalID: -3614123066826325464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VityaDeadSprite_25
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 74
+        width: 56
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95e772169a723f4b0800000000000000
+      internalID: -5407935119108899239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VityaDeadSprite_26
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 74
+        width: 56
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ce6c4dad8de5e840800000000000000
+      internalID: 5252865733151190722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VityaDeadSprite_27
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 74
+        width: 56
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d48343231b9d5fb70800000000000000
+      internalID: 8932284791033968717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 17c2c3175aa6a0747b550155d68df03d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":30.0,"y":54.0},"gridSpriteSize":{"x":56.0,"y":29.0},"gridSpriteOffset":{"x":110.0,"y":141.0},"gridSpritePadding":{"x":22.0,"y":14.0},"pivot":{"x":0.5,"y":0.5},"autoSlicingMethod":0,"spriteAlignment":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      VityaDeadSprite_0: -6526628323190544524
+      VityaDeadSprite_1: -4704800684542086907
+      VityaDeadSprite_10: -5739141418572037401
+      VityaDeadSprite_11: 3425428684109999688
+      VityaDeadSprite_12: -1219579119484816404
+      VityaDeadSprite_13: 1306730114003131258
+      VityaDeadSprite_14: -1905293379584592118
+      VityaDeadSprite_15: 6724185535903590099
+      VityaDeadSprite_16: -4050577390841430310
+      VityaDeadSprite_17: 6466620428794546553
+      VityaDeadSprite_18: -5874162714381473957
+      VityaDeadSprite_19: 3415007156170299059
+      VityaDeadSprite_2: 2037881210458022257
+      VityaDeadSprite_20: -2126743730432647872
+      VityaDeadSprite_21: 6872787643324737362
+      VityaDeadSprite_22: -6587809432807186999
+      VityaDeadSprite_23: -692635320569769596
+      VityaDeadSprite_24: -3614123066826325464
+      VityaDeadSprite_25: -5407935119108899239
+      VityaDeadSprite_26: 5252865733151190722
+      VityaDeadSprite_27: 8932284791033968717
+      VityaDeadSprite_3: -3640152191239916667
+      VityaDeadSprite_4: -6848153570014086416
+      VityaDeadSprite_5: 6362749258451351498
+      VityaDeadSprite_6: -1071833600577289512
+      VityaDeadSprite_7: -4467817082917662408
+      VityaDeadSprite_8: -2624983899040532495
+      VityaDeadSprite_9: 6676874530254324486
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

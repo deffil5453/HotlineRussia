@@ -1827,7 +1827,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 32
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -4982,13 +4982,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: "\u0437\u0430\u0433\u0440\u0443\u0436\u0435\u043D\u043E_140"
+      name: Vitya_Idle
       rect:
         serializedVersion: 2
-        x: 332
-        y: 991
-        width: 21
-        height: 26
+        x: 333
+        y: 992
+        width: 19
+        height: 24
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -5557,10 +5557,10 @@ TextureImporter:
       name: "\u0437\u0430\u0433\u0440\u0443\u0436\u0435\u043D\u043E_166"
       rect:
         serializedVersion: 2
-        x: 332
-        y: 946
-        width: 21
-        height: 26
+        x: 333
+        y: 947
+        width: 19
+        height: 24
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -6085,10 +6085,10 @@ TextureImporter:
       name: "\u0437\u0430\u0433\u0440\u0443\u0436\u0435\u043D\u043E_190"
       rect:
         serializedVersion: 2
-        x: 332
-        y: 901
-        width: 21
-        height: 26
+        x: 333
+        y: 902
+        width: 19
+        height: 24
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -6214,15 +6214,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: "\u0437\u0430\u0433\u0440\u0443\u0436\u0435\u043D\u043E_196"
+      name: Vitya_Shotgun_Walk_0
       rect:
         serializedVersion: 2
-        x: 1044
-        y: 916
-        width: 42
-        height: 21
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 1045
+        y: 917
+        width: 45
+        height: 20
+      alignment: 9
+      pivot: {x: 0.21111111, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -6236,15 +6236,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: "\u0437\u0430\u0433\u0440\u0443\u0436\u0435\u043D\u043E_197"
+      name: Vitya_Shotgun_Walk_1
       rect:
         serializedVersion: 2
-        x: 1100
-        y: 917
-        width: 44
+        x: 1101
+        y: 918
+        width: 45
         height: 20
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.21111111, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -6258,15 +6258,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: "\u0437\u0430\u0433\u0440\u0443\u0436\u0435\u043D\u043E_198"
+      name: Vitya_Shotgun_Walk_2
       rect:
         serializedVersion: 2
-        x: 1157
-        y: 917
+        x: 1158
+        y: 918
         width: 45
         height: 20
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.21111111, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -6280,15 +6280,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: "\u0437\u0430\u0433\u0440\u0443\u0436\u0435\u043D\u043E_199"
+      name: Vitya_Shotgun_Walk_3
       rect:
         serializedVersion: 2
-        x: 1214
-        y: 917
-        width: 44
+        x: 1215
+        y: 918
+        width: 45
         height: 20
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.21111111, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -6302,15 +6302,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: "\u0437\u0430\u0433\u0440\u0443\u0436\u0435\u043D\u043E_200"
+      name: Vitya_Shotgun_Walk_4
       rect:
         serializedVersion: 2
-        x: 1272
-        y: 916
-        width: 42
-        height: 21
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 1273
+        y: 917
+        width: 45
+        height: 20
+      alignment: 9
+      pivot: {x: 0.21111111, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -6368,15 +6368,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: "\u0437\u0430\u0433\u0440\u0443\u0436\u0435\u043D\u043E_203"
+      name: Vitya_Shotgun_Walk_5
       rect:
         serializedVersion: 2
-        x: 418
-        y: 883
-        width: 40
-        height: 21
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 419
+        y: 884
+        width: 45
+        height: 20
+      alignment: 9
+      pivot: {x: 0.21111111, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -6943,10 +6943,10 @@ TextureImporter:
       name: "\u0437\u0430\u0433\u0440\u0443\u0436\u0435\u043D\u043E_229"
       rect:
         serializedVersion: 2
-        x: 332
-        y: 856
-        width: 21
-        height: 26
+        x: 333
+        y: 857
+        width: 19
+        height: 24
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -6984,15 +6984,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: "\u0437\u0430\u0433\u0440\u0443\u0436\u0435\u043D\u043E_231"
+      name: Vitya_Shotgun_Walk_6
       rect:
         serializedVersion: 2
-        x: 418
-        y: 849
-        width: 40
-        height: 22
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 419
+        y: 850
+        width: 45
+        height: 20
+      alignment: 9
+      pivot: {x: 0.21111111, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -7275,10 +7275,10 @@ TextureImporter:
         serializedVersion: 2
         x: 1203
         y: 838
-        width: 42
-        height: 21
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        width: 45
+        height: 20
+      alignment: 9
+      pivot: {x: 0.21111111, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -7299,8 +7299,8 @@ TextureImporter:
         y: 838
         width: 49
         height: 21
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.19387755, y: 0.47619048}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -7424,15 +7424,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: "\u0437\u0430\u0433\u0440\u0443\u0436\u0435\u043D\u043E_251"
+      name: Vitya_Shotgun_Walk_7
       rect:
         serializedVersion: 2
-        x: 418
-        y: 817
-        width: 40
-        height: 21
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 419
+        y: 818
+        width: 45
+        height: 20
+      alignment: 9
+      pivot: {x: 0.21111111, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -7471,12 +7471,12 @@ TextureImporter:
       name: "\u0437\u0430\u0433\u0440\u0443\u0436\u0435\u043D\u043E_253"
       rect:
         serializedVersion: 2
-        x: 565
-        y: 804
-        width: 50
-        height: 22
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 566
+        y: 805
+        width: 48
+        height: 20
+      alignment: 9
+      pivot: {x: 0.19791667, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -7493,12 +7493,12 @@ TextureImporter:
       name: "\u0437\u0430\u0433\u0440\u0443\u0436\u0435\u043D\u043E_254"
       rect:
         serializedVersion: 2
-        x: 624
-        y: 802
-        width: 32
-        height: 26
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 625
+        y: 803
+        width: 31
+        height: 24
+      alignment: 9
+      pivot: {x: 0.30645162, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -7519,8 +7519,8 @@ TextureImporter:
         y: 802
         width: 24
         height: 26
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.39583334, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -7541,8 +7541,8 @@ TextureImporter:
         y: 800
         width: 28
         height: 28
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.3392857, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -7563,8 +7563,8 @@ TextureImporter:
         y: 800
         width: 29
         height: 28
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.3275862, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -7585,8 +7585,8 @@ TextureImporter:
         y: 800
         width: 29
         height: 28
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.3275862, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -7607,8 +7607,8 @@ TextureImporter:
         y: 800
         width: 28
         height: 28
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.3392857, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -7629,8 +7629,8 @@ TextureImporter:
         y: 800
         width: 27
         height: 28
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.35185185, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -7651,8 +7651,8 @@ TextureImporter:
         y: 800
         width: 26
         height: 28
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.3653846, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -7673,8 +7673,8 @@ TextureImporter:
         y: 802
         width: 24
         height: 26
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.39583334, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -7691,12 +7691,12 @@ TextureImporter:
       name: "\u0437\u0430\u0433\u0440\u0443\u0436\u0435\u043D\u043E_263"
       rect:
         serializedVersion: 2
-        x: 1134
+        x: 1135
         y: 805
-        width: 42
-        height: 21
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        width: 45
+        height: 20
+      alignment: 9
+      pivot: {x: 0.21111111, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -8854,7 +8854,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: "\u0437\u0430\u0433\u0440\u0443\u0436\u0435\u043D\u043E_316"
+      name: Vitya_Tesak_Idle
       rect:
         serializedVersion: 2
         x: 569
@@ -9917,8 +9917,8 @@ TextureImporter:
         y: 621
         width: 23
         height: 27
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.41304347, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -10335,8 +10335,8 @@ TextureImporter:
         y: 605
         width: 35
         height: 19
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.35639998, y: 0.47286826}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -10599,8 +10599,8 @@ TextureImporter:
         y: 577
         width: 21
         height: 26
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.45238096, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -10666,7 +10666,7 @@ TextureImporter:
         width: 39
         height: 19
       alignment: 9
-      pivot: {x: 0.42461687, y: 0.48861372}
+      pivot: {x: 0.2916291, y: 0.41830283}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -10687,8 +10687,8 @@ TextureImporter:
         y: 572
         width: 38
         height: 20
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.3794877, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -10797,8 +10797,8 @@ TextureImporter:
         y: 532
         width: 25
         height: 26
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.38, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -11054,15 +11054,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: "\u0437\u0430\u0433\u0440\u0443\u0436\u0435\u043D\u043E_421"
+      name: Vitya_Tesak_Attack_1
       rect:
         serializedVersion: 2
-        x: 565
-        y: 495
-        width: 25
-        height: 42
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 566
+        y: 496
+        width: 30
+        height: 40
+      alignment: 9
+      pivot: {x: 0.31666666, y: 0.675}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -11237,8 +11237,8 @@ TextureImporter:
         y: 489
         width: 25
         height: 24
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.38, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -11362,15 +11362,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: "\u0437\u0430\u0433\u0440\u0443\u0436\u0435\u043D\u043E_436"
+      name: Vitya_Tesak_Attack_2
       rect:
         serializedVersion: 2
-        x: 569
+        x: 570
         y: 461
-        width: 32
+        width: 30
         height: 31
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.31666666, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -11611,8 +11611,8 @@ TextureImporter:
         y: 443
         width: 23
         height: 25
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.41304347, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -11626,7 +11626,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: "\u0437\u0430\u0433\u0440\u0443\u0436\u0435\u043D\u043E_448"
+      name: Vitya_Tesak_Attack_3
       rect:
         serializedVersion: 2
         x: 569
@@ -11827,12 +11827,12 @@ TextureImporter:
       name: "\u0437\u0430\u0433\u0440\u0443\u0436\u0435\u043D\u043E_459"
       rect:
         serializedVersion: 2
-        x: 468
+        x: 476
         y: 370
-        width: 40
-        height: 57
+        width: 23
+        height: 40
       alignment: 9
-      pivot: {x: 0.5085437, y: 0.4721361}
+      pivot: {x: 0.5217391, y: 0.675}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -11853,8 +11853,8 @@ TextureImporter:
         y: 397
         width: 21
         height: 26
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.45238096, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -11868,7 +11868,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: "\u0437\u0430\u0433\u0440\u0443\u0436\u0435\u043D\u043E_461"
+      name: Vitya_Tesak_Attack_4
       rect:
         serializedVersion: 2
         x: 569
@@ -12355,12 +12355,12 @@ TextureImporter:
       name: "\u0437\u0430\u0433\u0440\u0443\u0436\u0435\u043D\u043E_484"
       rect:
         serializedVersion: 2
-        x: 465
+        x: 480
         y: 335
-        width: 48
+        width: 32
         height: 34
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.296875, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -12443,12 +12443,12 @@ TextureImporter:
       name: "\u0437\u0430\u0433\u0440\u0443\u0436\u0435\u043D\u043E_489"
       rect:
         serializedVersion: 2
-        x: 475
-        y: 291
-        width: 28
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 480
+        y: 292
+        width: 23
+        height: 31
+      alignment: 9
+      pivot: {x: 0.41304347, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -12770,15 +12770,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: "\u0437\u0430\u0433\u0440\u0443\u0436\u0435\u043D\u043E_506"
+      name: Vitya_Tesak_Run_5
       rect:
         serializedVersion: 2
-        x: 422
-        y: 253
+        x: 423
+        y: 254
         width: 27
-        height: 26
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        height: 24
+      alignment: 9
+      pivot: {x: 0.35185185, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -12795,11 +12795,11 @@ TextureImporter:
       name: "\u0437\u0430\u0433\u0440\u0443\u0436\u0435\u043D\u043E_507"
       rect:
         serializedVersion: 2
-        x: 478
-        y: 246
-        width: 21
-        height: 32
-      alignment: 0
+        x: 480
+        y: 252
+        width: 19
+        height: 26
+      alignment: 9
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
@@ -13078,15 +13078,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: "\u0437\u0430\u0433\u0440\u0443\u0436\u0435\u043D\u043E_521"
+      name: Vitya_Tesak_Run_4
       rect:
         serializedVersion: 2
-        x: 377
-        y: 226
-        width: 26
-        height: 26
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 378
+        y: 227
+        width: 27
+        height: 24
+      alignment: 9
+      pivot: {x: 0.35185185, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -13100,15 +13100,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: "\u0437\u0430\u0433\u0440\u0443\u0436\u0435\u043D\u043E_522"
+      name: Vitya_Tesak_Run_6
       rect:
         serializedVersion: 2
-        x: 422
-        y: 208
-        width: 29
-        height: 26
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 423
+        y: 209
+        width: 27
+        height: 24
+      alignment: 9
+      pivot: {x: 0.35185185, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -13254,15 +13254,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: "\u0437\u0430\u0433\u0440\u0443\u0436\u0435\u043D\u043E_529"
+      name: Vitya_Tesak_Run_3
       rect:
         serializedVersion: 2
-        x: 377
-        y: 181
-        width: 25
-        height: 26
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 378
+        y: 182
+        width: 27
+        height: 24
+      alignment: 9
+      pivot: {x: 0.35185185, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -13452,15 +13452,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: "\u0437\u0430\u0433\u0440\u0443\u0436\u0435\u043D\u043E_538"
+      name: Vitya_Tesak_Run_7
       rect:
         serializedVersion: 2
-        x: 422
-        y: 163
+        x: 423
+        y: 164
         width: 27
-        height: 26
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        height: 24
+      alignment: 9
+      pivot: {x: 0.35185185, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -13716,15 +13716,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: "\u0437\u0430\u0433\u0440\u0443\u0436\u0435\u043D\u043E_550"
+      name: Vitya_Tesak_Run_2
       rect:
         serializedVersion: 2
         x: 378
         y: 137
-        width: 23
+        width: 27
         height: 24
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.35185185, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -13870,15 +13870,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: "\u0437\u0430\u0433\u0440\u0443\u0436\u0435\u043D\u043E_557"
+      name: Vitya_Tesak_Run_1
       rect:
         serializedVersion: 2
         x: 378
         y: 92
-        width: 23
+        width: 27
         height: 24
       alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0.35185185, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -14310,15 +14310,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: "\u0437\u0430\u0433\u0440\u0443\u0436\u0435\u043D\u043E_577"
+      name: Vitya_Tesak_Run_0
       rect:
         serializedVersion: 2
         x: 378
         y: 47
-        width: 24
+        width: 27
         height: 24
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.35185185, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -14675,6 +14675,28 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
+      Vitya_Idle: -1215845173521528724
+      Vitya_Shotgun_Walk_0: 2719027386445307251
+      Vitya_Shotgun_Walk_1: -7478251277744037482
+      Vitya_Shotgun_Walk_2: 6978907620879792206
+      Vitya_Shotgun_Walk_3: -132407919992023562
+      Vitya_Shotgun_Walk_4: -9133867126087923925
+      Vitya_Shotgun_Walk_5: 1867785918735673068
+      Vitya_Shotgun_Walk_6: 1311002730560975234
+      Vitya_Shotgun_Walk_7: -7291473633521888412
+      Vitya_Tesak_Attack_1: -7910143192648268017
+      Vitya_Tesak_Attack_2: 387891075945972559
+      Vitya_Tesak_Attack_3: -2683339800042581621
+      Vitya_Tesak_Attack_4: -7273961094909804658
+      Vitya_Tesak_Idle: -436596606708524555
+      Vitya_Tesak_Run_0: -8781737560154688252
+      Vitya_Tesak_Run_1: 7151295250339137031
+      Vitya_Tesak_Run_2: -2689671505452237034
+      Vitya_Tesak_Run_3: 8359051360708853454
+      Vitya_Tesak_Run_4: -3734539842117134024
+      Vitya_Tesak_Run_5: 7180790736461540579
+      Vitya_Tesak_Run_6: -7487200116101145945
+      Vitya_Tesak_Run_7: 747373324944160798
       _Dead_1: 7243939267977424313
       _Dead_10: 6947211590289529329
       _Dead_11: -5230938469023931658
@@ -14748,7 +14770,6 @@ TextureImporter:
       "\u0437\u0430\u0433\u0440\u0443\u0436\u0435\u043D\u043E_137": -2442609340027322741
       "\u0437\u0430\u0433\u0440\u0443\u0436\u0435\u043D\u043E_138": -7602106123763139435
       "\u0437\u0430\u0433\u0440\u0443\u0436\u0435\u043D\u043E_14": -8109032849388760768
-      "\u0437\u0430\u0433\u0440\u0443\u0436\u0435\u043D\u043E_140": -1215845173521528724
       "\u0437\u0430\u0433\u0440\u0443\u0436\u0435\u043D\u043E_141": -1818230704955709804
       "\u0437\u0430\u0433\u0440\u0443\u0436\u0435\u043D\u043E_142": 1209390724672008334
       "\u0437\u0430\u0433\u0440\u0443\u0436\u0435\u043D\u043E_143": 3758056921711971189
@@ -14807,15 +14828,9 @@ TextureImporter:
       "\u0437\u0430\u0433\u0440\u0443\u0436\u0435\u043D\u043E_193": 9129577443551769525
       "\u0437\u0430\u0433\u0440\u0443\u0436\u0435\u043D\u043E_194": 1564419277978429135
       "\u0437\u0430\u0433\u0440\u0443\u0436\u0435\u043D\u043E_195": -5773897293275424260
-      "\u0437\u0430\u0433\u0440\u0443\u0436\u0435\u043D\u043E_196": 2719027386445307251
-      "\u0437\u0430\u0433\u0440\u0443\u0436\u0435\u043D\u043E_197": -7478251277744037482
-      "\u0437\u0430\u0433\u0440\u0443\u0436\u0435\u043D\u043E_198": 6978907620879792206
-      "\u0437\u0430\u0433\u0440\u0443\u0436\u0435\u043D\u043E_199": -132407919992023562
       "\u0437\u0430\u0433\u0440\u0443\u0436\u0435\u043D\u043E_2": 1913210661168211808
       "\u0437\u0430\u0433\u0440\u0443\u0436\u0435\u043D\u043E_20": -3972720733328960053
-      "\u0437\u0430\u0433\u0440\u0443\u0436\u0435\u043D\u043E_200": -9133867126087923925
       "\u0437\u0430\u0433\u0440\u0443\u0436\u0435\u043D\u043E_201": 5054282272670040645
-      "\u0437\u0430\u0433\u0440\u0443\u0436\u0435\u043D\u043E_203": 1867785918735673068
       "\u0437\u0430\u0433\u0440\u0443\u0436\u0435\u043D\u043E_204": -6479006693802545501
       "\u0437\u0430\u0433\u0440\u0443\u0436\u0435\u043D\u043E_205": -4065063732141228959
       "\u0437\u0430\u0433\u0440\u0443\u0436\u0435\u043D\u043E_206": 8518907935591119062
@@ -14846,7 +14861,6 @@ TextureImporter:
       "\u0437\u0430\u0433\u0440\u0443\u0436\u0435\u043D\u043E_229": 8421818909349654017
       "\u0437\u0430\u0433\u0440\u0443\u0436\u0435\u043D\u043E_23": 7228146887743966123
       "\u0437\u0430\u0433\u0440\u0443\u0436\u0435\u043D\u043E_230": -1742390891778501811
-      "\u0437\u0430\u0433\u0440\u0443\u0436\u0435\u043D\u043E_231": 1311002730560975234
       "\u0437\u0430\u0433\u0440\u0443\u0436\u0435\u043D\u043E_232": 6128344138017076618
       "\u0437\u0430\u0433\u0440\u0443\u0436\u0435\u043D\u043E_233": 5632420898395334710
       "\u0437\u0430\u0433\u0440\u0443\u0436\u0435\u043D\u043E_234": -895513438810552144
@@ -14867,7 +14881,6 @@ TextureImporter:
       "\u0437\u0430\u0433\u0440\u0443\u0436\u0435\u043D\u043E_249": -8399771323349060402
       "\u0437\u0430\u0433\u0440\u0443\u0436\u0435\u043D\u043E_25": -8320889276472109659
       "\u0437\u0430\u0433\u0440\u0443\u0436\u0435\u043D\u043E_250": -3675266953995924447
-      "\u0437\u0430\u0433\u0440\u0443\u0436\u0435\u043D\u043E_251": -7291473633521888412
       "\u0437\u0430\u0433\u0440\u0443\u0436\u0435\u043D\u043E_252": -6477909433439002239
       "\u0437\u0430\u0433\u0440\u0443\u0436\u0435\u043D\u043E_253": -5154669931050390890
       "\u0437\u0430\u0433\u0440\u0443\u0436\u0435\u043D\u043E_254": 6629591692665502469
@@ -14934,7 +14947,6 @@ TextureImporter:
       "\u0437\u0430\u0433\u0440\u0443\u0436\u0435\u043D\u043E_313": -9051019156438142215
       "\u0437\u0430\u0433\u0440\u0443\u0436\u0435\u043D\u043E_314": 7562809936487218235
       "\u0437\u0430\u0433\u0440\u0443\u0436\u0435\u043D\u043E_315": -2853201967547111751
-      "\u0437\u0430\u0433\u0440\u0443\u0436\u0435\u043D\u043E_316": -436596606708524555
       "\u0437\u0430\u0433\u0440\u0443\u0436\u0435\u043D\u043E_317": -6413999592401273807
       "\u0437\u0430\u0433\u0440\u0443\u0436\u0435\u043D\u043E_318": 7627324339997095312
       "\u0437\u0430\u0433\u0440\u0443\u0436\u0435\u043D\u043E_319": 3842104120859301955
@@ -15044,7 +15056,6 @@ TextureImporter:
       "\u0437\u0430\u0433\u0440\u0443\u0436\u0435\u043D\u043E_419": 2468208317816796437
       "\u0437\u0430\u0433\u0440\u0443\u0436\u0435\u043D\u043E_42": 2475303712794522246
       "\u0437\u0430\u0433\u0440\u0443\u0436\u0435\u043D\u043E_420": -2846502560219373441
-      "\u0437\u0430\u0433\u0440\u0443\u0436\u0435\u043D\u043E_421": -7910143192648268017
       "\u0437\u0430\u0433\u0440\u0443\u0436\u0435\u043D\u043E_422": -3469428100530532623
       "\u0437\u0430\u0433\u0440\u0443\u0436\u0435\u043D\u043E_423": -1349466457965314596
       "\u0437\u0430\u0433\u0440\u0443\u0436\u0435\u043D\u043E_424": 6293544680849269442
@@ -15060,7 +15071,6 @@ TextureImporter:
       "\u0437\u0430\u0433\u0440\u0443\u0436\u0435\u043D\u043E_433": -1319230903719404047
       "\u0437\u0430\u0433\u0440\u0443\u0436\u0435\u043D\u043E_434": 5141044240284807440
       "\u0437\u0430\u0433\u0440\u0443\u0436\u0435\u043D\u043E_435": -6522643817141815919
-      "\u0437\u0430\u0433\u0440\u0443\u0436\u0435\u043D\u043E_436": 387891075945972559
       "\u0437\u0430\u0433\u0440\u0443\u0436\u0435\u043D\u043E_437": 6683090009151413172
       "\u0437\u0430\u0433\u0440\u0443\u0436\u0435\u043D\u043E_438": 7206834990241245244
       "\u0437\u0430\u0433\u0440\u0443\u0436\u0435\u043D\u043E_439": -2395859670301503168
@@ -15072,7 +15082,6 @@ TextureImporter:
       "\u0437\u0430\u0433\u0440\u0443\u0436\u0435\u043D\u043E_445": 8554409068217688569
       "\u0437\u0430\u0433\u0440\u0443\u0436\u0435\u043D\u043E_446": 5341764748039663573
       "\u0437\u0430\u0433\u0440\u0443\u0436\u0435\u043D\u043E_447": 5100333450448347575
-      "\u0437\u0430\u0433\u0440\u0443\u0436\u0435\u043D\u043E_448": -2683339800042581621
       "\u0437\u0430\u0433\u0440\u0443\u0436\u0435\u043D\u043E_449": -8440042098866900449
       "\u0437\u0430\u0433\u0440\u0443\u0436\u0435\u043D\u043E_45": 5670205532841620876
       "\u0437\u0430\u0433\u0440\u0443\u0436\u0435\u043D\u043E_450": 7604716086616151648
@@ -15086,7 +15095,6 @@ TextureImporter:
       "\u0437\u0430\u0433\u0440\u0443\u0436\u0435\u043D\u043E_459": -5156391637743194622
       "\u0437\u0430\u0433\u0440\u0443\u0436\u0435\u043D\u043E_46": 284883239565909239
       "\u0437\u0430\u0433\u0440\u0443\u0436\u0435\u043D\u043E_460": 1950648282838697153
-      "\u0437\u0430\u0433\u0440\u0443\u0436\u0435\u043D\u043E_461": -7273961094909804658
       "\u0437\u0430\u0433\u0440\u0443\u0436\u0435\u043D\u043E_462": -1334056849152293978
       "\u0437\u0430\u0433\u0440\u0443\u0436\u0435\u043D\u043E_463": -1903977626962108177
       "\u0437\u0430\u0433\u0440\u0443\u0436\u0435\u043D\u043E_464": 6325807978120271097
@@ -15132,7 +15140,6 @@ TextureImporter:
       "\u0437\u0430\u0433\u0440\u0443\u0436\u0435\u043D\u043E_502": -8049278217746005257
       "\u0437\u0430\u0433\u0440\u0443\u0436\u0435\u043D\u043E_503": -7398460098890382389
       "\u0437\u0430\u0433\u0440\u0443\u0436\u0435\u043D\u043E_505": -5393557826717711417
-      "\u0437\u0430\u0433\u0440\u0443\u0436\u0435\u043D\u043E_506": 7180790736461540579
       "\u0437\u0430\u0433\u0440\u0443\u0436\u0435\u043D\u043E_507": 5714314566724963599
       "\u0437\u0430\u0433\u0440\u0443\u0436\u0435\u043D\u043E_508": 6704943597986747048
       "\u0437\u0430\u0433\u0440\u0443\u0436\u0435\u043D\u043E_509": -214202448055260029
@@ -15148,15 +15155,12 @@ TextureImporter:
       "\u0437\u0430\u0433\u0440\u0443\u0436\u0435\u043D\u043E_519": 6840526553287144076
       "\u0437\u0430\u0433\u0440\u0443\u0436\u0435\u043D\u043E_52": 6752132963332946012
       "\u0437\u0430\u0433\u0440\u0443\u0436\u0435\u043D\u043E_520": -138238503619685192
-      "\u0437\u0430\u0433\u0440\u0443\u0436\u0435\u043D\u043E_521": -3734539842117134024
-      "\u0437\u0430\u0433\u0440\u0443\u0436\u0435\u043D\u043E_522": -7487200116101145945
       "\u0437\u0430\u0433\u0440\u0443\u0436\u0435\u043D\u043E_523": 8913807128007103024
       "\u0437\u0430\u0433\u0440\u0443\u0436\u0435\u043D\u043E_524": -6887188919549396806
       "\u0437\u0430\u0433\u0440\u0443\u0436\u0435\u043D\u043E_525": 1429681095871206068
       "\u0437\u0430\u0433\u0440\u0443\u0436\u0435\u043D\u043E_526": -8536803678743631955
       "\u0437\u0430\u0433\u0440\u0443\u0436\u0435\u043D\u043E_527": 837208918792789593
       "\u0437\u0430\u0433\u0440\u0443\u0436\u0435\u043D\u043E_528": -7329081792481709130
-      "\u0437\u0430\u0433\u0440\u0443\u0436\u0435\u043D\u043E_529": 8359051360708853454
       "\u0437\u0430\u0433\u0440\u0443\u0436\u0435\u043D\u043E_53": 4356876668980818486
       "\u0437\u0430\u0433\u0440\u0443\u0436\u0435\u043D\u043E_530": 7902128867172063530
       "\u0437\u0430\u0433\u0440\u0443\u0436\u0435\u043D\u043E_531": 8523561520886723545
@@ -15166,7 +15170,6 @@ TextureImporter:
       "\u0437\u0430\u0433\u0440\u0443\u0436\u0435\u043D\u043E_535": 2630315014040110704
       "\u0437\u0430\u0433\u0440\u0443\u0436\u0435\u043D\u043E_536": 7569597630161946456
       "\u0437\u0430\u0433\u0440\u0443\u0436\u0435\u043D\u043E_537": -4486912379606435287
-      "\u0437\u0430\u0433\u0440\u0443\u0436\u0435\u043D\u043E_538": 747373324944160798
       "\u0437\u0430\u0433\u0440\u0443\u0436\u0435\u043D\u043E_539": 8667400692372489520
       "\u0437\u0430\u0433\u0440\u0443\u0436\u0435\u043D\u043E_54": 7823835875577101304
       "\u0437\u0430\u0433\u0440\u0443\u0436\u0435\u043D\u043E_540": 2577311494130122640
@@ -15180,14 +15183,12 @@ TextureImporter:
       "\u0437\u0430\u0433\u0440\u0443\u0436\u0435\u043D\u043E_548": 2787821340232668507
       "\u0437\u0430\u0433\u0440\u0443\u0436\u0435\u043D\u043E_549": 7405741483503130896
       "\u0437\u0430\u0433\u0440\u0443\u0436\u0435\u043D\u043E_55": -853151725403651480
-      "\u0437\u0430\u0433\u0440\u0443\u0436\u0435\u043D\u043E_550": -2689671505452237034
       "\u0437\u0430\u0433\u0440\u0443\u0436\u0435\u043D\u043E_551": 6661827591687481187
       "\u0437\u0430\u0433\u0440\u0443\u0436\u0435\u043D\u043E_552": -7361761875365276166
       "\u0437\u0430\u0433\u0440\u0443\u0436\u0435\u043D\u043E_553": -4639064057149521680
       "\u0437\u0430\u0433\u0440\u0443\u0436\u0435\u043D\u043E_554": -4650554551882064633
       "\u0437\u0430\u0433\u0440\u0443\u0436\u0435\u043D\u043E_555": 4881375821948874047
       "\u0437\u0430\u0433\u0440\u0443\u0436\u0435\u043D\u043E_556": -803272730752929082
-      "\u0437\u0430\u0433\u0440\u0443\u0436\u0435\u043D\u043E_557": 7151295250339137031
       "\u0437\u0430\u0433\u0440\u0443\u0436\u0435\u043D\u043E_558": -237557499819360660
       "\u0437\u0430\u0433\u0440\u0443\u0436\u0435\u043D\u043E_559": 5687767854911625194
       "\u0437\u0430\u0433\u0440\u0443\u0436\u0435\u043D\u043E_56": -3131467782399903360
@@ -15209,7 +15210,6 @@ TextureImporter:
       "\u0437\u0430\u0433\u0440\u0443\u0436\u0435\u043D\u043E_574": 7276437250434824337
       "\u0437\u0430\u0433\u0440\u0443\u0436\u0435\u043D\u043E_575": 8590907999596240891
       "\u0437\u0430\u0433\u0440\u0443\u0436\u0435\u043D\u043E_576": -7114636283284049111
-      "\u0437\u0430\u0433\u0440\u0443\u0436\u0435\u043D\u043E_577": -8781737560154688252
       "\u0437\u0430\u0433\u0440\u0443\u0436\u0435\u043D\u043E_578": -2560335350159963347
       "\u0437\u0430\u0433\u0440\u0443\u0436\u0435\u043D\u043E_579": -2633806873398256834
       "\u0437\u0430\u0433\u0440\u0443\u0436\u0435\u043D\u043E_58": 8876641999825254280
